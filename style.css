@@ -101,6 +101,4 @@ header > nav {
 }
 
 a:link { color: #d62828; }
-a:visited { color: red; }
 a:hover { color: #f77f00; }
-a:active { color: pink; }
