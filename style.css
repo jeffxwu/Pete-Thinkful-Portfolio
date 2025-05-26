@@ -87,6 +87,10 @@ hr {
   font-size: 20px;
 }
 
+#portfolio p {
+  text-align: left;
+}
+
 .contact {
   text-align: center;
 }
